@@ -46,6 +46,8 @@ For more information, proposals, or collaboration opportunities, visit our [GitL
 
 - [🛠 Engine Choice: Unity](docs/engine-choice-unity.md)
 
+- [🎭 NPC Dialogue Mechanics](docs/npc-dialogue-mechanics.md)
+
 - [🎹 Piano Mechanics GDD](docs/piano-mechanics-gdd.md)
 
 
