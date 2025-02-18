@@ -50,5 +50,7 @@ For more information, proposals, or collaboration opportunities, visit our [GitL
 
 - [🎹 Piano Mechanics GDD](docs/piano-mechanics-gdd.md)
 
+- [📜 Game Content Document](docs/game-content-document.md)
+
 
 
