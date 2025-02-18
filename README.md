@@ -46,4 +46,7 @@ For more information, proposals, or collaboration opportunities, visit our [GitL
 
 - [🛠 Engine Choice: Unity](docs/engine-choice-unity.md)
 
+- [🎹 Piano Mechanics GDD](docs/piano-mechanics-gdd.md)
+
+
 
