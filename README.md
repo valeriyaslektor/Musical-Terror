@@ -39,3 +39,6 @@ For more information, proposals, or collaboration opportunities, visit our [GitL
 ## 📖 Documentation
 
 - [📝 Vision Document](docs/vision-document.md)
+
+- - [📖 Project Structure](docs/project-structure.md)
+
