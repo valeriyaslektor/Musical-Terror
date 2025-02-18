@@ -35,3 +35,7 @@ During the day, Darkmoor can either continue his search for the masterpiece or f
 
 ## Contact & Collaboration
 For more information, proposals, or collaboration opportunities, visit our [GitLab repository](#) or contact us via Telegram: [@vskruspe](https://t.me/vskruspe) or email: [valeriyaslektor2000@gmail.com](mailto:valeriyaslektor2000@gmail.com).
+
+## 📖 Documentation
+
+- [📝 Vision Document](docs/vision-document.md)
