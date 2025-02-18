@@ -42,3 +42,5 @@ For more information, proposals, or collaboration opportunities, visit our [GitL
 
 - [📖 Project Structure](docs/project-structure.md)
 
+- [🎮 10 Minutes of Gameplay](docs/gameplay-ten-minutes.md)
+
