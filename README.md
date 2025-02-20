@@ -51,6 +51,10 @@ During the day, Darkmoor can either continue his search for the masterpiece or f
 
 - [📊 Progression System Balancing](docs/progression-balancing.md)
 
+## 🎬 Gameplay Prototype
+
+![Prototype Demo](docs/images/prototype.gif)
+
 ## Contact & Collaboration
 For more information, proposals, or collaboration opportunities, visit our [GitLab repository](#) or contact us via Telegram: [@vskruspe](https://t.me/vskruspe) or email: [valeriyaslektor2000@gmail.com](mailto:valeriyaslektor2000@gmail.com).
 
